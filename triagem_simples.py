@@ -1,4 +1,3 @@
-#Enzo de Paula Souza e Matheus Reis da Silva Maglio
 name = input("Digite seu nome: ")
 idade = int(input("Insira sua idade: "))    
 febre = input("Você tem febre?(Sim ou Não): ").lower()
@@ -173,6 +172,7 @@ tratamento = trata(febre,dor_cabeca,tosse)
     
      
      
+
 
 
 
